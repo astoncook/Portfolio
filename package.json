@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "nmp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astoncook/Portfolio.git"
+  },
+  "author": "Aston Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astoncook/Portfolio/issues"
+  },
+  "homepage": "https://github.com/astoncook/Portfolio#readme"
+}

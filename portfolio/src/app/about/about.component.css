@@ -1,0 +1,26 @@
+.about {
+    height: 100vh;
+    background-color: blue;
+}
+
+.aboutDetails {
+    flex-basis: 50%;
+    color: white;
+}
+
+.aboutTitle {
+    color: white;
+}
+
+.aboutParagraph {
+    color: white;
+    margin-bottom: 15px;
+}
+
+.aboutImg {
+    border-radius: 50%;
+    height: auto;
+    max-width: 250px;
+    box-shadow: 10px -10px;
+    transition: 1s ease-in;
+}
